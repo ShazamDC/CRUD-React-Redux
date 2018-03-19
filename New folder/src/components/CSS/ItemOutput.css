@@ -1,0 +1,16 @@
+.item-image{
+
+    width:100px;
+}
+.item-edit{
+width: 100px;
+}
+.item-delete{
+width: 150px;
+}
+.markdel{
+background-color: red; 
+}
+.unmarkdel{
+background-color: none;
+}
